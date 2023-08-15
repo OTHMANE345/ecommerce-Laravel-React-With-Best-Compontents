@@ -1,0 +1,31 @@
+.row{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 90vh;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    border-radius: 10px;
+    overflow: hidden;
+}
+#forlk{
+    width: 20px;
+    height: 30px;
+    display: flex;
+    top: 0%;
+
+}
+a {
+    flex:1;
+    color: rgb(2, 5, 5)!important;
+    text-decoration: none!important;
+}
+.nav-link-admin-forproducts{
+    color: rgb(4, 8, 8)!important;
+    padding: 4px !important;
+    background-color: rgb(217, 218, 176)!important;
+    display: inline!important;
+
+}

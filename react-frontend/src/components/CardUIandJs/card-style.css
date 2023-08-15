@@ -1,0 +1,41 @@
+body {
+    /* background-image: linear-gradient(to left, #331D2C, #F3EFE0) !important; */
+    background-color: #6f42c1 !important;
+    color: hsl(210, 3%, 16%) !important;
+}
+
+.card {
+    margin-top: 12px !important;
+    width: 20rem !important;
+}
+
+.card:hover {
+    box-shadow: 5px 10px 20px 1px #D8D9DA !important;
+}
+
+.card-body {
+    padding: 3rem 0 !important;
+}
+
+.card-text {
+    font-size: 0.9rem !important;
+    padding: 0.4rem 1.9rem !important;
+}
+
+.card-img-top {
+    transform: scale(1) !important;
+}
+
+.card-img-top:hover {
+    transform: scale(1.8) !important;
+    transition: transform 0.5s ease !important;
+}
+
+.overflow {
+    overflow: hidden !important;
+}
+/*those two styles are just for make this component background be look like the whole page*/
+.row{
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);}
+#ghu{
+    background: linear-gradient(to right, #24243e, #302b63, #0f0c29);}
